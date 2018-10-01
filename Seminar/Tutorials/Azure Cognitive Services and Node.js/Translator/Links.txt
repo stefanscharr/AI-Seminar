@@ -1,0 +1,3 @@
+https://docs.microsoft.com/de-de/azure/cognitive-services/translator/quickstart-nodejs-translate
+
+https://docs.microsoft.com/de-de/azure/cognitive-services/translator/quickstart-nodejs-translate

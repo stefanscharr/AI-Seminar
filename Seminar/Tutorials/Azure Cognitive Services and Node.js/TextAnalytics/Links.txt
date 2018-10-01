@@ -1,0 +1,3 @@
+https://docs.microsoft.com/en-us/azure/cognitive-services/Text-Analytics/
+https://docs.microsoft.com/en-us/azure/cognitive-services/Text-Analytics/quickstarts/python
+https://docs.microsoft.com/en-us/azure/cognitive-services/Text-Analytics/quickstarts/nodejs
